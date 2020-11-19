@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919218643918",
+    "firebase_url": "https://student-record-8a3af.firebaseio.com",
+    "project_id": "student-record-8a3af",
+    "storage_bucket": "student-record-8a3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919218643918:android:201e754d99dc4d3432419f",
+        "android_client_info": {
+          "package_name": "com.example.studentrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919218643918-qqbclcl15gmtvpe0rckdijnqp4e8vg8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentrecord",
+            "certificate_hash": "a96be3d5b6307dd47b0c3027310df6624bf02fc5"
+          }
+        },
+        {
+          "client_id": "919218643918-es0o0m8lh6ear1f2l63fgr9evlsf91q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfds3jAvCARmgAj-aMm5c3CHllGRNVqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919218643918-es0o0m8lh6ear1f2l63fgr9evlsf91q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginIn">
+
+    <activity
+        android:id="@+id/loginIn"
+        android:name="com.example.studentrecord.LoginIn"
+        android:label="activity_login_in"
+        tools:layout="@layout/activity_login_in" />
+    <activity
+        android:id="@+id/studentActivity"
+        android:name="com.example.studentrecord.StudentActivity"
+        android:label="activity_student"
+        tools:layout="@layout/activity_student" />
+    <activity
+        android:id="@+id/teacherActivity"
+        android:name="com.example.studentrecord.TeacherActivity"
+        android:label="activity_teacher"
+        tools:layout="@layout/activity_teacher" />
+</navigation>

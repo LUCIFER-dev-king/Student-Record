@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Student Record</string>
+    <string-array name="role">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="batch">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+</resources>
