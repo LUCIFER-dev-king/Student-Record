@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Intent intent = new Intent(this, LoginIn.class);
+        Intent intent = new Intent(this, TeacherActivity.class);
         startActivity(intent);
         finish();
     }
